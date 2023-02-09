@@ -12,7 +12,7 @@ async def send_message(message, user_message, is_private):
 
 
 def run_disc_bot():
-    token = 'MTA2MTAxOTY2MjY4MDMzMDM0MQ.GKf7yO.gTyw8eDBIcv7A8fZaI2Oy_2kS0FzFefKpEaj2g'
+    token = something_private
 
     intents = discord.Intents.default()
     intents.message_content = True
